@@ -171,5 +171,5 @@ Projeto desenvolvido por:
 Luís Gustavo Sampaio Coêlho,
 Nicoly Paschoa,
 Daniel Dias,
-Gabriela,
+Gabriela
 
