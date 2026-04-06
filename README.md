@@ -168,10 +168,8 @@ Navegação autônoma
 
 👨‍💻 Autores
 Projeto desenvolvido por:
-Luís Gustavo Sampaio Coêlho
-Nicoly Paschoa
-Daniel Dias
-Gabriela
+Luís Gustavo Sampaio Coêlho,
+Nicoly Paschoa,
+Daniel Dias,
+Gabriela,
 
-Luís Gustavo
-(Adicionar outros membros aqui)
